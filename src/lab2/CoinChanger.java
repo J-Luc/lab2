@@ -10,7 +10,7 @@ import javax.swing.JOptionPane;
 
 
 /**
- *
+ *3/2/15
  * @author class
  */
 public class CoinChanger {
